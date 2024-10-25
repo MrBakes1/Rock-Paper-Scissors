@@ -1,6 +1,6 @@
 Rock Paper Scissors Game 🎮
 
-Welcome to the Rock Paper Scissors game! Challenge your friends or the sneaky computer in this classic game of chance and skill. May the best choice win!
+Welcome to the Rock Paper Scissors game! Challenge the computer in this classic game of chance and skill. May the best choice win!
 Table of Contents
 
     About
